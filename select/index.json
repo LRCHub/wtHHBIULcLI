@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ONE SPARK -Japanese ver.-",
+  "base_artist": "TWICE",
+  "createdAt": "2026-01-03T21:56:47.263828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ONE SPARK -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_ONE_SPARK_-Japanese_ver.-_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ONE SPARK - Japanese ver.",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/02_ONE_SPARK_-_Japanese_ver._TWICE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ONE SPARK -Japanese ver.- (Japanese ver.)",
+      "artist": "Twice",
+      "has_synced": false,
+      "path": "select/03_ONE_SPARK_-Japanese_ver.-_(Japanese_ver.)_Twice.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONE SPARK -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_ONE_SPARK_-Japanese_ver.-_TWICE.txt"
+    }
+  ]
+}
